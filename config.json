@@ -1,0 +1,5 @@
+{
+  "clientId": "process.env.CLIENT_ID",
+  "guildId": "process.env.GUILD_ID",
+  "modRoleId": "process.env.MOD_ROLE_ID"
+}
